@@ -18,12 +18,30 @@ https://discord.gg/wvkHFBTFFV
 - Auto pet care and commands
 - Auto vote
 
-## Installation
+## Installation - Windows and Linux - Difficulty Easy
 
 1. First clone or download the Zip file
-2. Install requirements
-3. Open discord
-4. The bot has a 20 second grace period allowing you to select what channel you want to run the bot in. after this 20 seconds is up the script will run and begin typing. We recommend setting this up on an alt account to avoid being banned or blacklisted from dank memer. In a future release the bot will auto gift all of its earnings to you every 24 hours or ever set time that you choose.
+2. Install requirements.txt
+ `pip install -r requirements.txt`
+4. Open discord
+5. The bot has a 20 second grace period allowing you to select what channel you want to run the bot in. after this 20 seconds is up the script will run and begin typing. We recommend setting this up on an alt account to avoid being banned or blacklisted from dank memer. In a future release the bot will auto gift all of its earnings to you every 24 hours or ever set time that you choose.
+
+## Android
+Unfortunately android is not supported as pyautogui, the librar used to mimic keyboard commands is only supported on Linux, Windows and MacOS
+
+<!-- ## Installation - Android - Difficulty Easy
+1. Download 'Termux' from 'F-droid' I recommend this as there are repository issues with the playstore version leaving it practically unusable. F-droid is safe to use, of course make sure its from the official website - https://f-droid.org/en/packages/com.termux/
+After installing F-droid search for 'Termux' you will be met by this:
+
+<img src="https://user-images.githubusercontent.com/55029062/147935060-1bbb7d33-c640-4ddf-b361-55649a9fdec8.png" width=30% height=30%>
+
+2. After installing Termux run `apt update && apt upgrade` this will update the packages.
+3. Next run `apt install python`
+4. install the required library, 'pyautogui' by running the command `pip install pyautogui`
+5. Now we just need git to clone the repo, `pkg install git`
+6. Now run `git clone https://github.com/Nedcotter/Dank-memer-bot`
+7. cd into the repo, `cd Dank-memer-bot/`
+8. -->
 
 ## Bot in action
 This is after running the bot for about 18 hours straight
