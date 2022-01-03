@@ -18,13 +18,21 @@ https://discord.gg/wvkHFBTFFV
 - Auto pet care and commands
 - Auto vote
 
-## Installation - Windows and Linux - Difficulty Easy
-
+## Installation - Windows
 1. First clone or download the Zip file
-2. Install requirements.txt
- `pip install -r requirements.txt`
+2. Install python, there are many tutorials on how to do this or you can follow the documentation https://www.python.org/downloads/windows/
+4. Install pyautogui
+ `pip install pyautogui`
 4. Open discord
-5. The bot has a 20 second grace period allowing you to select what channel you want to run the bot in. after this 20 seconds is up the script will run and begin typing. We recommend setting this up on an alt account to avoid being banned or blacklisted from dank memer. In a future release the bot will auto gift all of its earnings to you every 24 hours or ever set time that you choose.
+5. The bot has a 20 second grace period allowing you to select what channel you want to run the bot in. after this 20 seconds is up the script will run and begin typing. We recommend setting this up on an alt account to avoid being banned or blacklisted from dank memer. In a future release the bot will auto gift all of its earnings to you every 24 hours or ever set time that you choose. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 20 seconds
+
+## Installation - Linux
+You guys know what to do
+1. clone the repo
+2. `pip install pyautogui`
+3. cd into Dank-memer-bot and run `python main.py` in 20 seconds the bot will start so click on the channel ou want it to run in and make sure the message box is selected.
+
+# Any issues just open an issue or message me on discord and i will help as soon as i can
 
 ## Android
 Unfortunately android is not supported as pyautogui, the librar used to mimic keyboard commands is only supported on Linux, Windows and MacOS
