@@ -31,7 +31,7 @@ https://discord.gg/wvkHFBTFFV
 You guys know what to do
 1. clone the repo
 2. `pip install pyautogui`
-3. cd into Dank-memer-bot and run `python main.py` in 20 seconds the bot will start so click on the channel ou want it to run in and make sure the message box is selected.
+3. cd into Dank-memer-bot and run `python main.py` in 20 seconds the bot will start so click on the channel you want it to run in and make sure the message box is selected.
 
 # Any issues just open an issue or message me on discord and i will help as soon as i can
 
