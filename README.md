@@ -17,6 +17,7 @@ https://discord.gg/wvkHFBTFFV
 - Auto prestige
 - Auto pet care and commands
 - Auto vote
+- pls search and auto work
 
 ## Installation - Windows
 1. First clone or download the Zip file
