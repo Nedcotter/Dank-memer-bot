@@ -21,13 +21,15 @@ https://discord.gg/wvkHFBTFFV
 - Auto vote
 - Auto work
 
+## How to Use the Bot
+When you run the bot it will ask whether you wish to turn on auto sell, what this is is that every hour the bot will sell all sellable items. Next the bot will ask wether you want to give all your money to another acc, this is useful if you are running the bot on an alt account and want to have the bot send you the profits. if you say 'y', the but will prompt you for a username to send the money to, follow the format `@User#0000`
+
 ## Installation - Windows
 1. First clone or download the Zip file
-2. Install python, there are many tutorials on how to do this or you can follow the documentation https://www.python.org/downloads/windows/
-4. Install pyautogui
- `pip -m install pyautogui`
-5. Open discord
-6. The bot has a 20 second grace period allowing you to select what channel you want to run the bot in. after this 20 seconds is up the script will run and begin typing. We recommend setting this up on an alt account to avoid being banned or blacklisted from dank memer. In a future release the bot will auto gift all of its earnings to you every 24 hours or ever set time that you choose. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 10 seconds
+2. Install requirements
+ `pip install -r requirements.txt`
+3. Open discord
+4. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 10 seconds
 
 ## Installation - Linux
 You guys know what to do
