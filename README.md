@@ -1,4 +1,4 @@
-# Dank-memer-bot  V1.0
+# Dank-memer-bot  V1.1
 A python bot to automate dank memer and owo
 
 ## Version 1.1 is officially released
