@@ -10,14 +10,15 @@ https://discord.gg/wvkHFBTFFV
 - Auto run Pls beg, dig, fish and hunt
 - Daily collections for Owo and Dank memer
 - Timing is humanlike, ergo bot is not seen as a threat because it enters at a human speed
+- Auto sell items
+- Auto search
 
 ## Features in Future releases
 - Ability to auto deposit money and send money and inventory items to users main or alt accounts
-- Auto sell items
 - Auto prestige
 - Auto pet care and commands
 - Auto vote
-- pls search and auto work
+- Auto work
 
 ## Installation - Windows
 1. First clone or download the Zip file
