@@ -1,7 +1,10 @@
 # Dank-memer-bot  V1.1
 A python bot to automate dank memer and owo
-
 ## Version 1.1 is officially released
+
+If your interested in donating towards any of my projects i have a crypto wallet here:
+
+bc1qwcka8cswaxx8sf2lt9d6drzvku0qpwg7sh0qkj
 
 ### Join our Discord for updates or to help contribute
 https://discord.gg/wvkHFBTFFV
@@ -30,6 +33,10 @@ When you run the bot it will ask whether you wish to turn on auto sell, what thi
  `pip install -r requirements.txt`
 3. Open discord
 4. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 10 seconds
+
+## Windows Error fix
+It is quite likely you will hit an error when installing the requirements on windows, this error regards to the PATH limit for files, one of the requirements (i forgot what one XD) will throw an error that its path is too long. To fix this open Powershell as administrator and copy this command in ``New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" `
+-Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force`` and click enter. What this command does is it changes a value in the registry allowing you to exceed the 260 character limit for file paths.
 
 ## Installation - Linux
 You guys know what to do
