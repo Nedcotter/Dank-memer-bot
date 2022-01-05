@@ -1,6 +1,5 @@
-# Dank-memer-bot  V1.1
+# Dank-memer-bot  V1.2
 A python bot to automate dank memer and owo
-## Version 1.1 is officially released
 
 If your interested in donating towards any of my projects i have a crypto wallet here:
 
@@ -18,6 +17,7 @@ https://discord.gg/wvkHFBTFFV
 - Auto search
 
 ## Features in Future releases
+- GUI - big update
 - Ability to auto give items to users main or alt accounts
 - Auto prestige
 - Auto pet care and commands
