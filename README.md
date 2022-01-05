@@ -66,6 +66,10 @@ After installing F-droid search for 'Termux' you will be met by this:
 ## Bot in action
 This is after running the bot for about 18 hours straight
 We ran 2 bots simultaneously and of course the multiplier has a big impact so the future prestige setting will help with grinding SIGNIFICANTLY
+Disclaimer -- In the screenshot below the bot had actually died a couple times over night resuling in a few million in lost revenue even though it had gotten life savers from level upgrades the bot had used them up. Ergo the bot had actually earn far more than this.
+
+I recommend buying a bunch of life savers before running the bot, even with auto deposit enabled it can still die right before the deposit.
+
 
 ![discordbot1](https://user-images.githubusercontent.com/55029062/147928741-f70fb049-4005-43ab-bcc0-8b2632277fdf.png)
 
