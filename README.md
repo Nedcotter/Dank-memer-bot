@@ -32,7 +32,7 @@ When you run the bot it will ask whether you wish to turn on auto sell, what thi
 2. Install requirements
  `pip install -r requirements.txt`
 3. Open discord
-4. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 10 seconds
+4. To run the bot make sure your in the Dank-memer-bot directory and just run `python main.py` the bot will start in 10 seconds. Or just double click on main and a window should open.
 
 ## Windows Error fix
 It is quite likely you will hit an error when installing the requirements on windows, this error regards to the PATH limit for files, one of the requirements (i forgot what one XD) will throw an error that its path is too long. To fix this open Powershell as administrator and copy this command in ``New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" `
