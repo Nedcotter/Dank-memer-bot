@@ -53,6 +53,7 @@ def start():
 
 	collected_daily = False
 	lasthour = strftime("%H", gmtime())
+	daily_rewards()
 	while True:
 		if collected_daily == False:
 			if strftime("%H", gmtime()) == "1":
@@ -68,15 +69,20 @@ def start():
 			currenthour = strftime("%H", gmtime())
 			if currenthour != lasthour:
 				time.sleep(2.0)
-				from sell import sell_items
-				sell_items()
+				pyautogui.write("pls sell", 0.1) #18
+				pyautogui.press('enter')
+				from button import confirm
+				confirm()
 				lasthour = strftime("%H", gmtime())
 		if autogift == True:
 			currenthour = strftime("%H", gmtime())
 			if currenthour != lasthour:
 				time.sleep(2.0)
-				from sharebutton import share
-				share()
+				give = "pls give {} all".format(username)
+				pyautogui.write(give, 0.1) #18
+				pyautogui.press('enter')
+				from button import confirm
+				confirm()
 				lasthour = strftime("%H", gmtime())
 				
 				
