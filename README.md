@@ -1,10 +1,6 @@
 # Dank-memer-bot  V1.2
 A python bot to automate dank memer and owo
 
-If your interested in donating towards any of my projects i have a crypto wallet here:
-
-bc1qwcka8cswaxx8sf2lt9d6drzvku0qpwg7sh0qkj
-
 ### Join our Discord for updates or to help contribute
 https://discord.gg/wvkHFBTFFV
 
